@@ -22,7 +22,7 @@ Based on the given set of business requirements the following star schema was de
 
 ## Load the Bikeshare CSV files to DFBS 
 Drag and drop the CSV files to DFBS and load it as shown 
-![ load_DBFS](Screen_Shots/load_DBFS.png "load_DBFS")
+![ load_DBFS](Screen_shots/load_DBFS.png "load_DBFS")
 
 ### picks files up from the Databricks file system storage and writes it out to Delta file locations
 By create notebook with python inside data Bricks workspace extract table first
