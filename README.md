@@ -28,7 +28,7 @@ Drag and drop the CSV files to DFBS and load it as shown
 By create notebook with python inside data Bricks workspace extract table first
 ![ extract1](Screen_Shots/extract1.png "extract1")
 Then we write the riders table to delta location 
-![ extract2]( Screen_Shots / extract2.png " extract2")
+![ extract2](Screen_Shots/extract2.png " extract2")
 
 ### useing spark.sql statements to create the tables and then load data from the files that were extracted in the Extract step.
 By create new notebook Create_spark_SQL_Table
