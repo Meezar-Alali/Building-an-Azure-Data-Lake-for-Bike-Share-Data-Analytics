@@ -47,4 +47,4 @@ So I create Python notebook Transform_data_intoStar_schema
 
 ### Now we can check and confirm the transformed  table that we create Dimension and fact table as below,
 ![ transform5]( Screen_Shots / transform5.png " transform5")
-![ transform6]( Screen_Shots / transform6.png " transform6")
+![ transform6]( Screen_Shots /transform6.png " transform6")
