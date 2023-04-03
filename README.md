@@ -15,7 +15,7 @@ Based on the given set of business requirements the following star schema was de
 ![star_schema]( Screen_Shots/star_schema.png "star_schema")
 
 ### Create Azure Data bricks
-![data_bricks1]( Screen_Shots/data_bricks1.png " data_bricks1")
+![data_bricks1](Screen_shots/data_bricks1.png "data_bricks1")
 
 ### Create Cluster
 ![cluster1]( Screen_Shots/cluster1.png " cluster1")
