@@ -6,6 +6,7 @@ Since the data from Divvy are anonymous, we have generated fake rider and accoun
 ![project_data](Screen_shots/project_data.png "project_data")
 
 The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture. You will:
+
 •	Design a star schema based on the business outcomes listed below.
 
 •	Import the data into Azure Databricks using Delta Lake to create a Bronze data store.
