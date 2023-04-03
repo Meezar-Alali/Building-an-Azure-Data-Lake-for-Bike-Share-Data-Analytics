@@ -6,10 +6,10 @@ Since the data from Divvy are anonymous, we have generated fake rider and accoun
 ![project_data](Screen_shots/project_data.png "project_data")
 
 The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture. You will:
-•	Design a star schema based on the business outcomes listed below;
-•	Import the data into Azure Databricks using Delta Lake to create a Bronze data store;
-•	Create a gold data store in Delta Lake tables;
-•	Transform the data into the star schema for a Gold data store;
+•	Design a star schema based on the business outcomes listed below.
+•	Import the data into Azure Databricks using Delta Lake to create a Bronze data store.
+•	Create a gold data store in Delta Lake tables.
+•	Transform the data into the star schema for a Gold data store.
 ### Design Bikeshare Star Schema
 ### Based on the given set of business requirements the following star schema was designed
 ![star_schema](Screen_shots/star_schema.png "star_schema")
