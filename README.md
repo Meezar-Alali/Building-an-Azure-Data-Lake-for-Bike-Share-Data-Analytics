@@ -12,21 +12,21 @@ The goal of this project is to develop a data lake solution using Azure Databric
 •	Transform the data into the star schema for a Gold data store;
 ### Design Bikeshare Star Schema
 Based on the given set of business requirements the following star schema was designed
-![star_schema]( Screen_Shots/star_schema.png "star_schema")
+![star_schema](Screen_Shots/star_schema.png "star_schema")
 
 ### Create Azure Data bricks
 ![data_bricks1](Screen_shots/data_bricks1.png "data_bricks1")
 
 ### Create Cluster
-![cluster1]( Screen_Shots/cluster1.png " cluster1")
+![cluster1](Screen_Shots/cluster1.png "cluster1")
 
 ## Load the Bikeshare CSV files to DFBS 
 Drag and drop the CSV files to DFBS and load it as shown 
-![ load_DBFS]( Screen_Shots/load_DBFS.png " load_DBFS")
+![ load_DBFS](Screen_Shots/load_DBFS.png "load_DBFS")
 
 ### picks files up from the Databricks file system storage and writes it out to Delta file locations
 By create notebook with python inside data Bricks workspace extract table first
-![ extract1]( Screen_Shots / extract1.png " extract1")
+![ extract1](Screen_Shots/extract1.png "extract1")
 Then we write the riders table to delta location 
 ![ extract2]( Screen_Shots / extract2.png " extract2")
 
