@@ -29,7 +29,7 @@ The goal of this project is to develop a data lake solution using Azure Databric
 ![ load_DBFS](Screen_shots/load_DBFS.png "load_DBFS")
 
 ### picks files up from the Databricks file system storage and writes it out to Delta file locations
-By create notebook with python inside data Bricks workspace extract table first
+### By create notebook with python inside data Bricks workspace extract table first
 ![ extract1](Screen_shots/extract1.png "extract1")
 Then we write the riders table to delta location 
 ![ extract2](Screen_shots/extract2.png " extract2")
